@@ -87,16 +87,16 @@ bash examples/ssrl/example.sh
 
 # 🎈Citation
 If you find SSRL helpful, please cite us.
-
+<!-- 
 ```bibtex
-<!-- @article{zuo2025ttrl,
+@article{zuo2025ttrl,
   title={Ttrl: Test-time reinforcement learning},
   author={Zuo, Yuxin and Zhang, Kaiyan and Qu, Shang and Sheng, Li and Zhu, Xuekai and Qi, Biqing and Sun, Youbang and Cui, Ganqu and Ding, Ning and Zhou, Bowen},
   journal={arXiv preprint arXiv:2504.16084},
   year={2025}
-} -->
-```
+}
+``` -->
 
-# 🌟Star History
+<!-- # 🌟Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PRIME-RL/TTRL&type=Date)](https://www.star-history.com/#PRIME-RL/TTRL&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=YuchenFan48/SSRL&type=Date)](https://www.star-history.com/#YuchenFan48/SSRL&Date) -->

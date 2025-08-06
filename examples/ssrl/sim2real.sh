@@ -47,11 +47,11 @@ python3 -m verl.trainer.main_ppo \
     trainer.project_name="Your Project Name" \
     trainer.experiment_name="Your Experiment Name" \
     trainer.n_gpus_per_node=8 \
-    +trainer.val_only=false \
+    +trainer.val_only=true \
     trainer.nnodes=1 \
     trainer.save_freq=10000 \
     trainer.test_freq=16 \
-    trainer.sim2real=false \
+    trainer.sim2real=true \
     trainer.type="qwen-7b" \
     trainer.use_entropy=false \
     trainer.total_epochs=5 $@

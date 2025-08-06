@@ -77,6 +77,14 @@ huggingface-cli download --repo-type dataset --resume-download yuchenFan/SSRL --
 bash examples/ssrl/example.sh
 ```
 
+To evaluate the trained model with Sim2Real generalization, you can run:
+
+```bash
+bash examples/ssrl/sim2real.sh
+```
+
+If you want to try entropy guided Sim2Real generalization, turn on the `trainer.use_entropy` flag in the `sim2real.sh` script.
+
 *All experiments were conducted on 8 x NVIDIA A800 80GB GPUs.*
 
 # 📨Contact

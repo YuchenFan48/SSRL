@@ -55,7 +55,7 @@ We first show that the high upper bound of Self-Search by using structured promp
    <img src="figs/tts.png" alt="TTS." style="width: 80%;">
 </p>
 
-Our experiments demonstrate that SSRL consistently improves performance across a variety of tasks and models. 
+After that, we experiment on SSRL to teach LLMs how to leverage self-search capabilities effectively. Our results demonstrate that SSRL consistently improves performance across a variety of tasks and models.
 
 Furthermore, although SSRL is trained offline, it can be seamlessly applied to online search engines, further boosting its performance.
 

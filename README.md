@@ -49,6 +49,12 @@ Previous work leverage external search engines during training, which is expensi
 
 # 📊Main Results
 
+We first show that the high upper bound of Self-Search by using structured prompt, with the LLM serving as the search engine and the policy simultaneously. 
+
+<p align="center">
+   <img src="figs/tts.png" alt="TTS." style="width: 80%;">
+</p>
+
 Our experiments demonstrate that SSRL consistently improves performance across a variety of tasks and models. 
 
 Furthermore, although SSRL is trained offline, it can be seamlessly applied to online search engines, further boosting its performance.

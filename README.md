@@ -4,7 +4,13 @@
 
 [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.16084)  [![Github](https://img.shields.io/badge/SSRL-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/YuchenFan48/SSRL)
 [![Wandb Log of SSRL](https://img.shields.io/badge/Wandb%20Log%20of%20SSRL-%2300B4AB?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=000000)](https://wandb.ai/yuchenfan/Rethink%20Search%20Scaling/reports/SSRL--VmlldzoxMzg3Nzc0NA)
+[![Huggingface Model Collection](https://img.shields.io/badge/huggingface-model?style=for-the-badge&logo=huggingface&logoColor=000&labelColor=white&color=100)](https://huggingface.co/collections/yuchenFan/ssrl-6892aa60edf73d32342834fc)
+[![Huggingface Dataset Collection](https://img.shields.io/badge/huggingface-dataset?style=for-the-badge&logo=huggingface&logoColor=000&labelColor=white&color=100)](https://huggingface.co/datasets/yuchenFan/SSRL)
 
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]
+
+[![License](https://img.shields.io/badge/license-MIT-000000?style=for-the-badge)]
 </div>
 
 <div align="center" style="font-family: Arial, sans-serif;">

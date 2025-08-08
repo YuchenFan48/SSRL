@@ -52,7 +52,13 @@ Previous work leverage external search engines during training, which is expensi
 We first show that the high upper bound of Self-Search by using structured prompt, with the LLM serving as the search engine and the policy simultaneously. 
 
 <p align="center">
-   <img src="figs/tts.png" alt="TTS." style="width: 80%;">
+   <img src="figs/qa_tasks_part1.png" alt="TTS." style="width: 90%;">
+</p>
+<p align="center">
+   <img src="figs/multihop_qa_tasks_part2.png" alt="TTS." style="width: 90%;">
+</p>
+<p align="center">
+   <img src="figs/browsecomp_task_part3.png" alt="TTS." style="width: 90%;">
 </p>
 
 After that, we experiment on SSRL to teach LLMs how to leverage self-search capabilities effectively. Our results demonstrate that SSRL consistently improves performance across a variety of tasks and models.
